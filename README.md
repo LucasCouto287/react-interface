@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# react-interface
+Learning React.js using the "React: Building an Interface" course on LinkedIn Learning :books:
 
 ## Available Scripts
 
